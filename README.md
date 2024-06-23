@@ -1,6 +1,8 @@
 Superstore_Dashboard
 This repository features the Power BI dashboard I developed during my Data Analytics Bootcamp. The project demonstrates the diverse data visualization and analytical skills I have acquired throughout the course.
+
 Overview
+
 This dashboard provides a comprehensive visualization of sales, quantity, and profit data segmented by various categories and segments. Here is a detailed overview of each section:
 
 1. Top Summary Metrics:
